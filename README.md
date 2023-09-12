@@ -1,0 +1,2 @@
+# QlikView-Stock-Market-Assessment
+ 
